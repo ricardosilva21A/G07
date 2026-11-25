@@ -12,7 +12,6 @@ A documentação do projeto está na [wiki](https://github.com/ricardosilva21A/G
 | Ricardo Silva | Scrum Master |
 | Armando Carvalho | Developer |
 | Margarida Carvalho | Developer |
-| Tiago Lopes | Developer |
 
 ## Estrutura
 
